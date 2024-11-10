@@ -1,4 +1,4 @@
-PUEDES MEJORAR ESTE ALGORITMO!!!!!  PARA MAYOR PRECISION DE DATOS
+PUEDES MEJORAR ESTE ALGORITMO PARA MAYOR PRECISION DE DATOS Y RECONOCIMIENTO DE NUMEROS!!!!!  
 
 
 Versión de Python 3.7.6: 
@@ -6,6 +6,8 @@ https://www.python.org/downloads/release/python-376/
 
 Complementos de Windows c++ para no tener errores: 
 https://aka.ms/vs/17/release/vc_redist.x64.exe
+
+Actualizar pip despues de instalar python 3.7.6
 
 Instalar tensorflow y tensorfloW- datasets  con pip:
 
